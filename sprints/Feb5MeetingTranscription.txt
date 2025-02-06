@@ -1,0 +1,360 @@
+[Speaker 1]
+Well because there are some other groups that have changed up repositories and stuff and I don't know that I have everybody's current propository links now. Okay, so what were
+
+[Speaker 2]
+We supposed to have today?
+
+[Speaker 1]
+Uh, so you were supposed to have everything.
+
+[Speaker 2]
+Okay, not done.
+
+[Speaker 3]
+The whole project, I
+
+[Speaker 2]
+Will say um, I feel like a big part of this is supposed to be like us getting Doing stuff with each other.
+
+[Speaker 1]
+Yeah. Well And figuring out how to set things up.
+
+[Speaker 2]
+Yes,
+
+[Speaker 1]
+Is really what you've got to get through.
+
+[Speaker 4]
+So and
+
+[Speaker 2]
+This was brutal
+
+[Speaker 4]
+The stuff with the repository one like that's all Part of the intended thing. Yeah.
+
+[Speaker 5]
+Yeah.
+
+[Speaker 1]
+Um every group's going to find their own thing,
+
+[Speaker 2]
+Right? So yeah I just I saw like uh Jason did his figma. Uh he already showed you that I guess his beautiful figma wireframe.
+
+Uh, we just got our um, database, our local database, ASP. Things set up. I built it five times. Um, eight times if you include Nates, um, problems we uh experienced, if you include any.net 9.0, In an 8.0 project will not work. Connection string when you do the what is it? Create scaffolding if you delete that It's gone and it's never coming back. So I kept deleting my migrations and rebuilding those, um, But eventually I realized you just you have to do it right. The first time you have to nail that scaffolding and the migration and if you don't you're in big trouble as best. I can tell maybe there's a way to like go back and do it. Like a really good C. Sharp person could I could not but we finally got it working and
+
+[Speaker 5]
+Uh So, that's
+
+[Speaker 2]
+What we have, is that, and he did a Wi-Fi correct. So,
+
+[Speaker 4]
+Um, But it sounds like you got the web project up and running. Yes,
+
+[Speaker 1]
+And it's connected to the database. Yes. So I think the next big step for you is to get a desktop application up, okay? Connected to the same database. Okay?
+
+Uh, the other Major thing that you need to do is to get some sample tests in place and make sure you can generate your coverage report, okay?
+
+[Speaker 6]
+Those are the two big tests. Yeah, okay.
+
+[Speaker 1]
+Um, Minor tests following from that is setting up your repository so all the folders and files and everything are in there for that. I don't want you to let go make class, diagrams in ER diagrams and wireframes and stuff necessarily for Sprint zero. You can put a file in, that's like name class diagram, you know, class, diagram.txt. Just put it where it's supposed to be select filter, and then when we make next time, that'll let me check and make sure. You know what all deliverables need to be that they're all located in the right places and then you just, you know, as you go forward, swap those out with whatever the real things are when you get them made. Yeah.
+
+[Speaker 2]
+Okay, can you repeat that? I know it's right here.
+
+[Speaker 1]
+And look at the project description to make sure the setup matches. What's in front, you're saying the
+
+[Speaker 2]
+Forward slash Sprint. Forward slash whatever. Just get those nailed, okay? We had a best Sprint thing, but since we just created a new repository, it does not have that anymore. But yes, I am aware that that needs to be there and we'll get that next time. Uh, okay, so so next Wednesday
+
+[Speaker 5]
+Repo needs to be sweet
+
+[Speaker 2]
+Of tests Suite of tests showing that we can contest and we need a desktop application that interacts with
+
+[Speaker 1]
+Our web
+
+[Speaker 2]
+Database. Okay? Yeah. So they
+
+[Speaker 1]
+Should the web project and the desktop should share the same database, okay?
+
+[Speaker 2]
+So if you update
+
+[Speaker 1]
+One, you see the same data. Pulling up the other,
+
+[Speaker 2]
+Okay. Uh, we realized that neither one of us has done Advanced web dev and that's really brutal.
+
+[Speaker 1]
+So
+
+[Speaker 2]
+And a lot of people in the computer lab were like thank God. I took Advanced web Dev because this really suck right now. If I hadn't so might want to see about pushing that like into the curriculum. I feel like you could almost remove web dev and just put in advanced web Dev and that would be better. Because web dev is just HTML. You don't set the agenda.
+
+[Speaker 4]
+Uh, there's been discussions about what to do about, what development putting in an extra course. Isn't going to work because that just eliminates. All space for electives at
+
+[Speaker 1]
+That point. And You have a prescribed. You must take exactly these courses and there's no room for you to take anything else. Maybe we
+
+[Speaker 2]
+Could cut something else.
+
+[Speaker 1]
+It's already a bit more like that than it used to be, because there used to be space for Was it two or three electives? I think it was two electives two electives. Plus she had a new internship. And then what was the course they got in?
+
+[Speaker 4]
+There was a course that got shuffled around somewhere and then you ended up with only one that liked
+
+[Speaker 1]
+Him.
+
+[Speaker 3]
+Yeah, as a intelligent systems.
+
+[Speaker 2]
+Well yeah, regardless
+
+[Speaker 1]
+Relevant to now anyways. Yeah.
+
+[Speaker 5]
+Um, I mean there's a lot
+
+[Speaker 2]
+Of overlap so far we've seen in systems programming and distributed in Cloud. It's at least a lot of it is both threading and application, scheduling something I very much appreciate coming from a different school.
+
+[Speaker 3]
+I really appreciate how everything kind of intertwines here because at my last school was All over the
+
+[Speaker 1]
+Place. Okay.
+
+[Speaker 3]
+So
+
+[Speaker 2]
+We get
+
+[Speaker 1]
+To do something in one class and never talk about it. Never
+
+[Speaker 2]
+Talk. Yeah,
+
+[Speaker 3]
+We did. Like like we had a yeah. The
+
+[Speaker 1]
+Weirdest
+
+[Speaker 3]
+Thing is we had a programming course but there was no programming one. There was only programming two.
+
+[Speaker 7]
+You better have learned this somewhere else, and then we
+
+[Speaker 3]
+Learned C and we used Linux. Never never again. We're gonna
+
+[Speaker 2]
+Teach you how to be a hacker but not a coder.
+
+[Speaker 3]
+Yeah, we did one coding assignment, the whole class because the guy would just stand up in front of the class and talk and splab on. I
+
+[Speaker 2]
+Don't if you're gonna do that then like you might as well just learn stuff off the internet. Like what's the point of having a professor? I've heard almost everything at that school.
+
+[Speaker 1]
+It's brutal.
+
+[Speaker 2]
+Okay.
+
+[Speaker 5]
+Is uh, we need stuff. Are we good? So yeah, so
+
+[Speaker 1]
+Just make sure desktop systems online the web systems online. You can demonstrate those and then you've got your test that you can run and generate an external coverage report HTML, PDF, whatever, needs to be. We
+
+[Speaker 3]
+Have one more meeting with you before Sprint zero's deadline. Right?
+
+[Speaker 1]
+No. Okay, so is next Wednesday, our deadline I probably need to send a clarification out to everybody because so the deadlines The deadline listed is the end of the week, right? But I want you to submit deliverables before the next meeting. What do you want?
+
+[Speaker 2]
+When you say? Deliverables
+
+[Speaker 1]
+Because Sprint zero. Well for all of them you'll just take your repository. You will grab a snapshot of the current repository and it will have everything there. You mean, like literally
+
+[Speaker 2]
+A screenshot or just like like zip a copy of the local categorians about
+
+[Speaker 1]
+It.
+
+[Speaker 2]
+Okay. That sounds dire. Um, okay. Uh do you mind if I upload this somewhere on our repository so we can both access it.
+
+[Speaker 1]
+All I ask is if you want to record. Classroom meetings or whatever, I don't care, just don't post them publicly would
+
+[Speaker 2]
+It be considered privately since it's a private report repository okay. Okay. Uh, sounds good
+
+[Speaker 1]
+By that. I mean don't put it on YouTube. Okay.
+
+[Speaker 2]
+Oh, I think so. Our next meeting, we should have all deliverables zipped submitted.
+
+[Speaker 3]
+Okay, but the deadline is next Friday or Wednesday. Yeah, so
+
+[Speaker 1]
+Just take a take a copier repository before we meet it can be five minutes before but preferably a little bit. Earlier.
+
+[Speaker 3]
+Yeah, well so
+
+[Speaker 2]
+Far
+
+[Speaker 1]
+The zip a copy of the repository and submit it in. Um, The assignments are set to be due at the end of the week because it's the same assignment for the whole class and everybody meets on different days. So okay, okay. But I want stuff submitted in before we meet, before we meet, okay? Because then we're gonna and for this one, it's a little bit different but going forward, it's during the Meeting will review where you're at and then talk about what you're going to do in the next Sprint. Which works best if you're not still doing things for the current
+
+[Speaker 3]
+Speed. Yeah, you know. Okay, so treat
+
+[Speaker 1]
+That as your deadline going,
+
+[Speaker 3]
+Okay?
+
+[Speaker 2]
+Okay. Uh, last question teams, I mean sort of a statement team sucks. Is there a way to get notifications like sent when I get them? Because I we're both getting notifications like 12 hours after
+
+[Speaker 1]
+I don't. I'm getting notifications. It was nice because for a bit I thought I wasn't getting them but yeah I don't think I'm getting them immediately. I thought it was just I'm not getting.
+
+[Speaker 3]
+I don't know if I'm not getting them immediately or like I have I
+
+[Speaker 1]
+Saw something bounce over under the other chair.
+
+[Speaker 2]
+I know I kept clearing my phone just in case and then I got a notification from him that said, 18 hours ago and I was like well that's very helpful,
+
+[Speaker 3]
+Like turn on notifications for you and then I'm not getting notifications for you.
+
+[Speaker 2]
+So I'm just gonna have to be very well, sometimes I
+
+[Speaker 1]
+Get notifications, sometimes I get mobile notifications and sometimes I'll get the desktop notifications and I've gotten an email batch here. You have a bunch of messages and teams randomly one day. Like I don't, it's like,
+
+[Speaker 2]
+They're
+
+[Speaker 7]
+Resetting their server. I think I think
+
+[Speaker 3]
+You might have turned on notice cuz like you have to make like a post and I think we had a different post that we were basically. Our interaction was like comments underneath the posts. I think you turn on notifications for that one but you didn't. For the most recent one that we have, I don't know, but there's
+
+[Speaker 2]
+An option. That's what it is. Get notifications. If you are added
+
+[Speaker 1]
+Like end,
+
+[Speaker 3]
+You added
+
+[Speaker 2]
+Me, and then 18.
+
+[Speaker 1]
+Yeah, that's why Out the channel, whenever I'm sending stuff for our individual people to try to make sure notifications are going out to folks. Yeah, sending messages. Okay,
+
+[Speaker 2]
+A delay on that, okay. Uh, okay. Well, we will get that squared away hopefully earlier than we did this time. Um, and we will have it next Wednesday.
+
+[Speaker 1]
+Okay. Sounds good. Um, the other thing getting ready for next time because we're going to be doing planning going into project proper. Um, look over the product backlog. The top priority items You know, meet together and take, maybe an hour a little more or less go through that sketch out, a rough Sprint, backlog. Uh, maybe some wireframe, maybe get started on some use case, scenarios to get an idea of what's going to be required there. What, you know, you can and can't commit to this is where especially since there's two of you commit to.
+
+[Speaker 2]
+Yeah.
+
+[Speaker 1]
+And, you know, take into account what you think you can deliver during the two weeks for Sprint. One, and then we'll talk about that plan and nail down exactly what the expectations are for the Sprint going into that Sprint. And at that point all of the groups are officially working on different deaths. Yeah.
+
+[Speaker 3]
+Okay. And
+
+[Speaker 1]
+It becomes much more exciting.
+
+[Speaker 3]
+Yeah so Okay, just just a. So for Sprint zero it's just what we had discussed in this meeting and then Sprint one is, when we start really like developing? Yes. I'm saying okay, print
+
+[Speaker 1]
+One, you're building the system, okay? It's eleven starting teacher implementation
+
+[Speaker 2]
+And we can't actually fail this Sprint. Zero. Can we? No, okay.
+
+[Speaker 3]
+I remember you saying something about like starting integrating just having something to log into was asked for zero or was that yeah
+
+[Speaker 1]
+Just something that you can test a database and stuff with. You may want to look at login and authentication and handle that. So,
+
+[Speaker 3]
+Yeah, as
+
+[Speaker 1]
+Just a thing to be familiar with because that's one of the things like along with the database. If you don't set it up right at the beginning, you
+
+[Speaker 3]
+Can end up having to rebuild stuff later. Yeah, okay. So I think we've gotten to that point. At least because we do have the database set
+
+[Speaker 2]
+Up, we do. But that was one of the issue. Ahead is that connection string. If you don't have that set up like with username and password and you have to like tell it, use authentication, it won't do it, right? So we might have to make a new project,
+
+[Speaker 3]
+Okay?
+
+[Speaker 2]
+Anyways, and now that I've gotten
+
+[Speaker 1]
+That and double check that like you can pull your repository down on vlab, fresh. Somewhere, you know, somewhere that you haven't run stuff and make sure that you can launch it from there, that there's not something that's tied into your machine, or your instance somehow, okay, that's
+
+[Speaker 3]
+Not
+
+[Speaker 1]
+Understood
+
+[Speaker 2]
+Right. But yeah, that I'm remembering why I don't like C sharp that much. It's because you have to have It working for Microsoft, you can't just change the code like locally or it'll mess everything up, okay? So I guess that's everything. Got it all done.
